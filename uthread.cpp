@@ -255,6 +255,6 @@ int uthread_get_quantums(int tid);
 
 int main() {
     printf("start timer");
-    start_timer(100);
+    start_timer(1000);
     return 0;
 }
